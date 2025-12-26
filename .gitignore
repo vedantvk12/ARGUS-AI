@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# ML models
+*.pt
+
+# Node
+node_modules/
+
+# Env
+.env
